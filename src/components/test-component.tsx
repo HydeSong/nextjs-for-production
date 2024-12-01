@@ -23,7 +23,7 @@ export default async function Dashboard() {
                 ) : (
                     <p>User not found.</p>
                 )} */}
-        test demo
+        hello world
       </CardContent>
     </Card>
   );
